@@ -82,7 +82,15 @@ h1{
 	color: #777;
 	height: 15px;
 	padding: 30px; 
+<<<<<<< HEAD
 	margin: 15px, 30px, 10px, 20px;
+=======
+	margin-top: 15px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 30px;
+	
+>>>>>>> 73b7981cba4d288b3f53c483e815a3ab7521a50d
 
 }
 
